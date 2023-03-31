@@ -40,4 +40,4 @@ instagram.addEventListener("click", function(){
 
 linkedin.addEventListener("click", function(){
     window.location.href = "https://www.linkedin.com/company/spe-alex/"
-})
+});
