@@ -183,61 +183,55 @@ a, a:visited, a:hover, a:active {
     background-image: url(/images/Board-pics/Dina-El-Gayer.jpg);
 }
 .President{
-    background-image: url(/images/Board-pics/fady.jpg);
-}
-.Vice-President {
     background-image: url(/images/Board-pics/samy.jpg);
 }
+.Vice-President {
+    background-image: url(/images/Board-pics/sarah.jpeg);
+}
 .Secretary{
-    background-image: url(/images/Board-pics/sarah.jpg);
+    background-image: url(/images/Board-pics/Nour-Talaat.jpg);
 }
 .Treasure {
-    background-image: url(/images/Board-pics/anas.jpg);
+    background-image: url(/images/Board-pics/Sohail-Sameh.jpg);
 }
 .Membership-Chairperson{
-    background-image: url(/images/Board-pics/Yassmin.jpg);
+    background-image: URL(/images/Board-pics/Sohail-Sameh.jpg);
+}
+.Program-Chairperson {
+    background-image: url(/images/Board-pics/Rewan-Ali.jpg);
+}
+.Webmaster {
+    background-image: url(/images/Board-pics/Abdelrahman-Khalid.jpg);
 }
 .Reem {
     background-image: url(/images/Board-pics/Reem-Mamdouh.jpg);
 }
-.Nour{
-    background-image: URL(/images/Board-pics/Nour-Talaat.jpg);
-}
-.Marehan{
-    background-image: URL(/images/Board-pics/Marehan-Mohamed.jpg);
-}
-.Shrouk{
-    background-image: URL(/images/Board-pics/Shrouck-Ibrahim.jpg);
-}
-.Radwan{
-    background-image: URL(/images/Board-pics/Mohamed-Radwan.jpg);
-}
-.Salma{
-    background-image: URL(/images/Board-pics/Salma-Ibrahem.jpg);
-}
-.Marina{
-    background-image: URL(/images/Board-pics/Marina-Nabil.jpg);
-}
-.Sohail{
-    background-image: URL(/images/Board-pics/Sohail-Sameh.jpg);
-}
-.Allam{
-    background-image: URL(/images/Board-pics/Yousef-Allam.jpg);
-}
-.Magd{
-    background-image: URL(/images/Board-pics/Magd-Mohamed.jpg);
-}
-.Jackie{
-    background-image: URL(/images/Board-pics/Jackie-Kamal.jpg);
-}
-.Abdelrahman{
-    background-image: URL(/images/Board-pics/Abdelrahman-Khalid.jpg);
+.Alaa-hesham {
+    background-image: url(/images/Board-pics/Alaa-hesham.jpeg);
 }
 .Rewan{
     background-image: URL(/images/Board-pics/Rewan-Ali.jpg);
 }
 .Alaa{
     background-image: URL(/images/Board-pics/Mohamed-Alaa.jpg);
+}
+.FARAH{
+    background-image: url(/images/Board-pics/Farah.jpeg);
+}
+.Toqa {
+    background-image: url(/images/Board-pics/Toqa.jpg);
+}
+.wafaa {
+    background-image: url(/images/Board-pics/wafaa.jpg);
+}
+.Menna {
+    background-image: url(/images/Board-pics/Menna.jpeg);
+}
+.Alaa-ebrahem {
+    background-image: url(/images/Board-pics/Alaa-ebrahim.jpeg);
+}
+.MARWAN {
+    background-image: url(/images/Board-pics/Marwan.jfif);
 }
 /*box3*/
 .box3 {
